@@ -1,0 +1,2 @@
+# sql.dayzz
+sql scripts
